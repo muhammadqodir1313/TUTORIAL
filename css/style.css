@@ -438,7 +438,7 @@ h1,h2,h3,h4,h5,h6{
 	width: 100%;
 }
 .rslides li {
-    -webkit-backface-visibility: hidden;
+    
     position: absolute;
     display: none;
     left: 0%;
@@ -938,7 +938,7 @@ a.hi-icon img {
 
 .hi-icon:before {
 	font-family: 'ecoicon';
-	speak: none;
+	/* speak: none; */
 	font-size: 48px;
 	line-height: 90px;
 	font-style: normal;
@@ -1548,8 +1548,6 @@ h4.text {
     margin: 0 auto;
 }
 /*--//test--*/
-.contact-agile{
-	}
 .map {
     position: relative;
 }
